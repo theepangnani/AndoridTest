@@ -21,5 +21,10 @@
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="315dp"
             app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
             android:id="@+id/button" app:layout_constraintHorizontal_bias="0.479"/>
+    <TextView
+            android:text="Git is great"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="98dp"
+            tools:layout_editor_absoluteX="142dp" android:id="@+id/textView"/>
 
 </android.support.constraint.ConstraintLayout>
